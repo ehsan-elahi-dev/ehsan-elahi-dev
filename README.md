@@ -22,17 +22,20 @@ I enjoy turning designs and ideas into functional websites while continuously im
 ## 🚀 Featured Projects
 
 | Project                    | Description                                                                  | Demo                                                                       |
+| Project                    | Description                                                                  | Demo                                                                       |
 | :------------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
 | 🛒 **NFT Marketplace**     | Modern responsive marketplace interface built with JavaScript & Tailwind CSS | [View Live Demo →](https://ehsan-elahi-dev.github.io/NFT-marketplace/)     |
-| ☕ **Urban Coffee**         | Modern coffee shop website with an elegant user interface                    | [View Live Demo →](https://ehsan-elahi-dev.github.io/Urban-Coffee/)        |
-| ☕ **Coffee House**         | Responsive coffee shop landing page built with HTML & CSS                    | [View Live Demo →](https://ehsan-elahi-dev.github.io/coffee-house/)        |
+| 👟 **Urban Kicks**         | Interactive e-commerce product page with shopping cart functionality         | [View Live Demo →](https://ehsan-elahi-dev.github.io/Urban-Kicks-/)        |
+| ☕ **Coffee House**         | Modern coffee shop landing page built with HTML5 and CSS3                    | [View Live Demo →](https://ehsan-elahi-dev.github.io/coffee-house/)        |
 | 🛋️ **Furni Shop**         | Responsive furniture e-commerce website                                      | [View Live Demo →](https://ehsan-elahi-dev.github.io/Furni-shop/)          |
 | 🌤️ **Weather App**        | Weather application with API integration and dynamic data                    | [View Live Demo →](https://ehsan-elahi-dev.github.io/weather-App/)         |
 | 🎮 **Pokémon Explorer**    | Interactive Pokémon explorer using JavaScript, Axios & jQuery                | [View Live Demo →](https://ehsan-elahi-dev.github.io/pokemon-explorer/)    |
-| 👟 **Urban Kicks**         | Interactive e-commerce product page with shopping cart functionality         | [View Live Demo →](https://ehsan-elahi-dev.github.io/Urban-Kicks-/)        |
 | 🎲 **Roll a Dice**         | Interactive dice game built with JavaScript                                  | [View Live Demo →](https://ehsan-elahi-dev.github.io/Roll-a-dice/)         |
 | ✂️ **Rock Paper Scissors** | Interactive game built with JavaScript and DOM manipulation                  | [View Live Demo →](https://ehsan-elahi-dev.github.io/Rock-Paper-scissors/) |
 | 🔢 **Guess Number Game**   | Interactive number guessing game built with JavaScript                       | [View Live Demo →](https://ehsan-elahi-dev.github.io/guess-number-game/)   |
+
+---
+
 
 ---
 
